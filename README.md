@@ -4,4 +4,4 @@
 >**EN:    I'm learning Git, Github, algorithms, Java, HTML, CSS and Python 3** <br>
 >**PT-BR: Estou aprendendo Git, Github, algorithms, Java, HTML, CSS and Python 3**
 
->**📫 whiranocorpo@gmail.com** 
+>**📫 whirano3@gmail.com** 
