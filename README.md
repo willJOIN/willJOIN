@@ -3,6 +3,6 @@
 
 >**📫 whirano3@gmail.com** 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whirano4&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willJOIN&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whirano4&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willJOIN&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
