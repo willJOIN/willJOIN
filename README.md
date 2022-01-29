@@ -13,5 +13,5 @@
   <img align="center" alt="willJOIN-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="willJOIN-Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
   <img align="center" alt="willJOIN-MySQL" height="30" width "30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  
+  <img align="right" width="200em" height="200em" alt="willJOIN-Gif" src="willJOIN.gif">
 </div>
