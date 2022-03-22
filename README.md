@@ -1,5 +1,5 @@
-># **EN:    Hi, I’m William! I am currently working and enrolled in university, studying Computer Science. I'm a beginner in programming and i'm also looking to improve my knowledge.** <br>
-># **PT-BR: Oi, sou o William! Estou trabalhando na área e cursando Ciências da Computação. Sou iniciante em programação e busco aprimorar meus conhecimentos.** 
+># **EN:    Hi, I’m William! I am currently working and enrolled in university, studying Computer Science. I'm improving my programming skills.** <br>
+># **PT-BR: Oi, sou o William! Estou trabalhando na área e cursando Ciências da Computação. Estou aprimorando minhas habilidades em programação.** 
 
 >## **Tech Stack**
 <div style="display: inline_block">
