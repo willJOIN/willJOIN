@@ -1,7 +1,7 @@
 Junior software developer pursuing bachelor's degree in Computer Science. 
 
  - Programming Languages: **Python**, **Java**, C, JavaScript
- - Back End Development Frameworks: **FastAPI**, Flask, Chalice, Node JS
+ - Back End Development Frameworks: **FastAPI**, Flask, Chalice, Django, Node JS
  - Front End Development Frameworks: Angular
  - Databases: **MySQL**, **PostgreSQL**
  - Clouds: **AWS**, Azure, Heroku
