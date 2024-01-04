@@ -1,4 +1,4 @@
-Junior software developer pursuing bachelor's degree in Computer Science. 
+Junior software developer with 2+ years of experience pursuing bachelor's degree in Computer Science. 
 
  - Programming Languages: **Python**, **Java**, C, JavaScript
  - Back End Development Frameworks: **FastAPI**, Flask, Chalice, Django, Node JS
