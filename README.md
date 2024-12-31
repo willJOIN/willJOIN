@@ -1,4 +1,4 @@
-Software Engineer Team Lead with 2+ years of experience pursuing bachelor's degree in Computer Science. 
+Software Engineer Team Lead with 3 years of experience pursuing bachelor's degree in Computer Science. 
 
  - Programming Languages: **Python**, **Java**, C, JavaScript
  - Back End Development Frameworks: **FastAPI**, Flask, Chalice, Celery, Django, Node.js
