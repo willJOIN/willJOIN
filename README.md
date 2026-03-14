@@ -1,4 +1,4 @@
-Mid Level Software Engineer Team Lead with 3 years of experience pursuing bachelor's degree in Computer Science. 
+Tech Lead with over 4 years of experience with a bachelor's degree in Computer Science. 
 
  - Programming Languages: **Python**, **Java**, C, JavaScript
  - Back End Development Frameworks: **FastAPI**, Flask, Chalice, Celery, Django, Node.js
