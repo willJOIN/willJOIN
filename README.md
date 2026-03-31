@@ -5,5 +5,3 @@ Tech Lead with over 4 years of experience with a bachelor's degree in Computer S
  - Front End Development Frameworks: Angular, React, Next.js
  - Databases: **MySQL**, **PostgreSQL**
  - Clouds: **AWS**, Azure, Heroku
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willJOIN&exclude_repo=KNN-Image-Classification&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>   
